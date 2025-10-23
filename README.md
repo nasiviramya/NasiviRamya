@@ -14,3 +14,4 @@ TECH STACK
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-red?style=for-the-badge&logo=yolov5&logoColor=white)
+![Comfy UI](https://img.shields.io/badge/Comfy_UI-blue?style=for-the-badge&logo=appveyor&logoColor=white)
